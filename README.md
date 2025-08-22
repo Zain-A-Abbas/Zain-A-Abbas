@@ -4,7 +4,7 @@
 Crowd simulations converted to compute shaders to run in parallel. Uses GLSL for the computer and GDScript as the graphics/UI API.
 
 ### [October 2024 Gamejam](https://github.com/Zain-A-Abbas/October2024GameJam)
-A game made in 48 hours for a university gamejam/hackathon. Won "best gameplay" and "most polished gameplay" awards.
+A game made in 48 hours for a university gamejam/hackathon. Won "best gameplay" and "most polished game" awards.
 
 ### [3D Game in C-based Custom Engine](https://github.com/Zain-A-Abbas/3D-Game-Engine)
 A 3D game written in a C-based engine built from a basic 3D game framework. Many features such as proper collision, physics, and their respective optimizations were implemented by me.
