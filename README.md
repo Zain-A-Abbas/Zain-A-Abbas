@@ -12,8 +12,5 @@ A 3D game written in a C-based engine built from a basic 3D game framework. Many
 ### [Tabletop Manager](https://github.com/Zain-A-Abbas/PF2E-Combat-Driver)
 A program for helping manage sessions and content for the PF2E tabletop system. Database and data format retrieved from [the foundry API](https://github.com/foundryvtt/pf2e).
 
-### [TTRPG Content Editor](https://github.com/Zain-A-Abbas/inferno-content-editor)
-A simple content editor for a TTRPG project.
-
 ### [Script-to-JSON converter](https://github.com/Zain-A-Abbas/Readable-Script-to-JSON)
 A simple program in C++ to convert human-readable dialogue scripts to JSON for in-game use. Made to learn C++ and for a personal game project.
